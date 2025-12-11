@@ -1,5 +1,5 @@
 import axios from 'axios';
-axios.defaults.baseURL = 'https://project-node-wt-team4.onrender.com/api';
+axios.defaults.baseURL = 'https://water-tracker-backend-z2wb.onrender.com/api';
 
 export const setAuthHeader = (token) => {
   axios.defaults.headers.common.Authorization = `Bearer ${token}`;
