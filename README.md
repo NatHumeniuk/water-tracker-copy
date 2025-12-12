@@ -11,7 +11,7 @@ frontend - https://github.com/VuktorTS/water-tracker backend -
 https://github.com/NatHumeniuk/project-node-WT-Team4
 
 Посилання на документацію Swagger -
-https://project-node-wt-team4.onrender.com/api-docs/#/
+https://app.swaggerhub.com/apis/NATGUMENUK/api-water-tracker/1.0.0
 
 Для створення проекту були використані наступні технології: Vite, React, Redux
 Toolkit, Axios, Formik & Yup, styled components, Node.js, Express, MongoDB,
