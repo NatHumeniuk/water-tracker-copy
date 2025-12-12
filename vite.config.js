@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react-swc';
 import svgr from 'vite-plugin-svgr';
 
 export default defineConfig({
-  base: '/NatHumeniuk/water-tracker-copy/',
+  base: '/water-tracker-copy/',
   plugins: [react(), svgr()],
   build: { sourcemap: true },
   resolve: {
